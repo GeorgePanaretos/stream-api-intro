@@ -23,7 +23,6 @@ stream-api-project/
 │── logs/ (Generated logs if applicable)
 ```
 
-```md
 # Stream API Project
 
 ## Overview
